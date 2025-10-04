@@ -1,0 +1,8 @@
+*.zip
+*.log
+.DS_Store
+.env
+node_modules/
+response.json
+lambda-trust-policy.json
+lambda-permissions.json
