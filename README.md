@@ -6,6 +6,20 @@ Automated system to monitor email addresses for data breaches using the HaveIBee
 ![EventBridge](https://img.shields.io/badge/AWS-EventBridge-orange?logo=amazon-aws)
 ![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-orange?logo=amazon-aws)
 ![Security](https://img.shields.io/badge/Security-Monitoring-red)
+![Status](https://img.shields.io/badge/Status-Live%20%26%20Deployed-brightgreen)
+
+## 🚀 Deployment Status
+
+**This project is currently LIVE and actively monitoring email addresses for breaches!**
+
+- ✅ **Lambda Function:** `password-breach-checker` deployed in `us-east-1`
+- ✅ **DynamoDB Table:** `password-breach-monitor` active
+- ✅ **EventBridge Schedule:** Running daily at 9 AM UTC
+- ✅ **SNS Alerts:** Email notifications configured
+- ✅ **Monitoring:** 2 email addresses
+- 📅 **Deployed:** October 2025
+
+**Latest Check Results:** 0 breaches found (all clear! 🎉)
 
 ## 🎯 Overview
 
